@@ -1,17 +1,17 @@
 {
   "name": "@aprodan/generate-random-numbers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly generates an array of random numbers.",
   "author": {
-  	"name": "Alexandru Prodan",
-	"email": "prodanalexandru580@gmail.com"
+    "name": "Alexandru Prodan",
+    "email": "prodanalexandru580@gmail.com"
   },
   "main": "index.js",
   "type": "module",
   "exports": "index.js",
   "files": [
-  	"index.js",
-	"index.d.ts"
+    "index.js",
+    "index.d.ts"
   ],
   "scripts": {
     "test": "xo && ava && tsd"
@@ -21,10 +21,10 @@
     "url": "git+https://github.com/alexprodan99/generate-random-numbers.git"
   },
   "keywords": [
-  	"random",
-	"generate",
-	"number",
-	"generate-n-numbers"
+    "random",
+    "generate",
+    "number",
+    "generate-n-numbers"
   ],
   "license": "ISC",
   "bugs": {
