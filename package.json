@@ -1,0 +1,39 @@
+{
+  "name": "generate_random_numbers",
+  "version": "1.0.0",
+  "description": "Quickly generate an array of random numbers.",
+  "author": {
+  	"name": "Alexandru Prodan",
+	"email": "prodanalexandru580@gmail.com"
+  },
+  "main": "index.js",
+  "type": "module",
+  "exports": "index.js",
+  "files": [
+  	"index.js",
+	"index.d.ts"
+  ],
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexprodan99/generate_n_random_nums.git"
+  },
+  "keywords": [
+  	"random",
+	"generate",
+	"number",
+	"generate-n-numbers"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexprodan99/generate_n_random_nums/issues"
+  },
+  "homepage": "https://github.com/alexprodan99/generate_n_random_nums#readme",
+  "devDependencies": {
+    "ava": "^4.3.1",
+    "tsd": "^0.22.0",
+    "xo": "^0.50.0"
+  }
+}
