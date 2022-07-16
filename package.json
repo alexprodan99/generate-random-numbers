@@ -1,6 +1,6 @@
 {
   "name": "@aprodan/generate-random-numbers",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Quickly generates an array of random numbers.",
   "author": {
     "name": "Alexandru Prodan",
