@@ -17,6 +17,6 @@ console.log('Random Numbers=', randomNumbers());
 ```
 
 ## API
-### generateRandomNumbers(n, min, max)
-Returns a function, that when called, will return an array with n random numbers, where each number is in [min,max] interval
-
+### generateRandomNumbers(n, min, max, unique = false)
+* Returns a function, that when called, will return an array with n random numbers, where each number is in [min, max] interval.
+* By default unique is false, and that means there is possible to have duplicate values in result.

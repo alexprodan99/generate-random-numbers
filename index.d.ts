@@ -11,4 +11,4 @@
     ```
 */
 
-export default function generateRandomNumbers(n: number, min: number, max: number): () => [number];
+export default function generateRandomNumbers(n: number, min: number, max: number, unique?: boolean): () => [number];
