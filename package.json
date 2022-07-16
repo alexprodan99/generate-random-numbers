@@ -1,5 +1,5 @@
 {
-  "name": "generate_random_numbers",
+  "name": "@aprodan/generate-random-numbers",
   "version": "1.0.0",
   "description": "Quickly generate an array of random numbers.",
   "author": {
